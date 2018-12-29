@@ -76,8 +76,8 @@ int main()
   int i, n;
   double d = M_PI_2;
   double alpha = M_PI_4;
-  double beta  = 0.75;
-  double K = pow(1 + M_PI_2*M_PI_2,0.5*M_PI_4);
+  double beta  = 1.0 - alpha*M_1_PI;
+  double K = pow(1 + M_PI_2*M_PI_2,0.5*alpha);
 
   double t, err, maxerr;
 
