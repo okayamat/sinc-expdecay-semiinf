@@ -37,8 +37,8 @@ Compiler: Apple LLVM version 6.0
  New York, 1993.
 2. T. Okayama:
  New conformal map for the Sinc approximation for exponentially decaying
- functions over the semi-infinite interval, arXiv:1812.11546 [math.NA],
- December 2018.
+ functions over the semi-infinite interval, Journal of Computational and
+ Applied Mathematics, to appear.
 3. T. Okayama:
  Error estimates with explicit constants for the Sinc approximation over
  infinite intervals, Applied Mathematics and Computation, Vol. 319 (2018),
