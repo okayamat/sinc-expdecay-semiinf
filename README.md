@@ -10,7 +10,7 @@ These programs approximate the following three functions:
 
 Approximation is done by means of the Sinc approximation combined with
 a proper variable transformation. Programs that begin with Stenger use
-a variable transformation given by Stenger [1], t = arcsinh(exp(x)),
+a variable transformation employed by Stenger [1], t = arcsinh(exp(x)),
 whereas other programs use another transformation t = log(1 + exp(x)),
 which is described in [2].
 
